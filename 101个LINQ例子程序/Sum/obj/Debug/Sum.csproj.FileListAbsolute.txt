@@ -1,0 +1,5 @@
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Sum\bin\Debug\Sum.exe.config
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Sum\bin\Debug\Sum.exe
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Sum\bin\Debug\Sum.pdb
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Sum\obj\Debug\Sum.exe
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Sum\obj\Debug\Sum.pdb

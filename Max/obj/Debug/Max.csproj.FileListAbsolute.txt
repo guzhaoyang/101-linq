@@ -1,0 +1,6 @@
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Max\bin\Debug\Max.exe.config
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Max\bin\Debug\Max.exe
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Max\bin\Debug\Max.pdb
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Max\obj\Debug\Max.csprojResolveAssemblyReference.cache
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Max\obj\Debug\Max.exe
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Max\obj\Debug\Max.pdb

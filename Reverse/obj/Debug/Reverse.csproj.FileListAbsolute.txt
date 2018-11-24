@@ -1,0 +1,11 @@
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Reverse\bin\Debug\Reverse.exe.config
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Reverse\bin\Debug\Reverse.exe
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Reverse\bin\Debug\Reverse.pdb
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Reverse\obj\Debug\Reverse.exe
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Reverse\obj\Debug\Reverse.pdb
+D:\101个LINQ例子程序\101个LINQ例子程序\Reverse\bin\Debug\Reverse.exe.config
+D:\101个LINQ例子程序\101个LINQ例子程序\Reverse\bin\Debug\Reverse.exe
+D:\101个LINQ例子程序\101个LINQ例子程序\Reverse\bin\Debug\Reverse.pdb
+D:\101个LINQ例子程序\101个LINQ例子程序\Reverse\obj\Debug\Reverse.csprojResolveAssemblyReference.cache
+D:\101个LINQ例子程序\101个LINQ例子程序\Reverse\obj\Debug\Reverse.exe
+D:\101个LINQ例子程序\101个LINQ例子程序\Reverse\obj\Debug\Reverse.pdb

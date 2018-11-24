@@ -1,0 +1,5 @@
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\ClassLibrary\bin\Debug\ClassLibrary.dll
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\ClassLibrary\bin\Debug\ClassLibrary.pdb
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\ClassLibrary\obj\Debug\ClassLibrary.dll
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\ClassLibrary\obj\Debug\ClassLibrary.pdb

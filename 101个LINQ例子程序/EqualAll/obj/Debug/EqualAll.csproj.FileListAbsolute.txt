@@ -1,0 +1,6 @@
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\EqualAll\bin\Debug\EqualAll.exe.config
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\EqualAll\bin\Debug\EqualAll.exe
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\EqualAll\bin\Debug\EqualAll.pdb
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\EqualAll\obj\Debug\EqualAll.csprojResolveAssemblyReference.cache
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\EqualAll\obj\Debug\EqualAll.exe
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\EqualAll\obj\Debug\EqualAll.pdb

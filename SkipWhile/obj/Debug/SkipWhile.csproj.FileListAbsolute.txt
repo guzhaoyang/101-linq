@@ -1,0 +1,8 @@
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\SkipWhile\bin\Debug\SkipWhile.exe.config
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\SkipWhile\bin\Debug\SkipWhile.exe
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\SkipWhile\bin\Debug\SkipWhile.pdb
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\SkipWhile\bin\Debug\ClassLibrary.dll
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\SkipWhile\bin\Debug\ClassLibrary.pdb
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\SkipWhile\obj\Debug\SkipWhile.csprojResolveAssemblyReference.cache
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\SkipWhile\obj\Debug\SkipWhile.exe
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\SkipWhile\obj\Debug\SkipWhile.pdb

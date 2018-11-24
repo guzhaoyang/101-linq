@@ -1,0 +1,6 @@
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Min\bin\Debug\Min.exe.config
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Min\bin\Debug\Min.exe
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Min\bin\Debug\Min.pdb
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Min\obj\Debug\Min.exe
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Min\obj\Debug\Min.pdb
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Min\obj\Debug\Min.csprojResolveAssemblyReference.cache

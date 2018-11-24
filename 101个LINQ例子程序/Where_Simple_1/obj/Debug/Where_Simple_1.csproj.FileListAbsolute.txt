@@ -1,0 +1,6 @@
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Where_Simple_1\bin\Debug\Where_Simple_1.exe.config
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Where_Simple_1\bin\Debug\Where_Simple_1.exe
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Where_Simple_1\bin\Debug\Where_Simple_1.pdb
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Where_Simple_1\obj\Debug\Where_Simple_1.csprojResolveAssemblyReference.cache
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Where_Simple_1\obj\Debug\Where_Simple_1.exe
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Where_Simple_1\obj\Debug\Where_Simple_1.pdb

@@ -1,0 +1,6 @@
+D:\101个LINQ例子程序\101个LINQ例子程序\QueryExecution\bin\Debug\QueryExecution.exe.config
+D:\101个LINQ例子程序\101个LINQ例子程序\QueryExecution\bin\Debug\QueryExecution.exe
+D:\101个LINQ例子程序\101个LINQ例子程序\QueryExecution\bin\Debug\QueryExecution.pdb
+D:\101个LINQ例子程序\101个LINQ例子程序\QueryExecution\obj\Debug\QueryExecution.csprojResolveAssemblyReference.cache
+D:\101个LINQ例子程序\101个LINQ例子程序\QueryExecution\obj\Debug\QueryExecution.exe
+D:\101个LINQ例子程序\101个LINQ例子程序\QueryExecution\obj\Debug\QueryExecution.pdb

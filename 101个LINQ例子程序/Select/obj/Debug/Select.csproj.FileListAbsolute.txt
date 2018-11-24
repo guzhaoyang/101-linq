@@ -1,0 +1,8 @@
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Select\bin\Debug\Select.exe.config
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Select\bin\Debug\Select.exe
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Select\bin\Debug\Select.pdb
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Select\obj\Debug\Select.exe
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Select\obj\Debug\Select.pdb
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Select\bin\Debug\ClassLibrary.dll
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Select\bin\Debug\ClassLibrary.pdb
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Select\obj\Debug\Select.csprojResolveAssemblyReference.cache

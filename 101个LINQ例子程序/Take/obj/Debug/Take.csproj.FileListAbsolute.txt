@@ -1,0 +1,6 @@
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Take\bin\Debug\Take.exe.config
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Take\bin\Debug\Take.exe
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Take\bin\Debug\Take.pdb
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Take\obj\Debug\Take.csprojResolveAssemblyReference.cache
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Take\obj\Debug\Take.exe
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Take\obj\Debug\Take.pdb

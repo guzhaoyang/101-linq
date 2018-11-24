@@ -1,0 +1,7 @@
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Intersect\bin\Debug\Intersect.exe.config
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Intersect\bin\Debug\Intersect.exe
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Intersect\bin\Debug\Intersect.pdb
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Intersect\obj\Debug\Intersect.exe
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Intersect\obj\Debug\Intersect.pdb
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Intersect\bin\Debug\ClassLibrary.dll
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Intersect\bin\Debug\ClassLibrary.pdb

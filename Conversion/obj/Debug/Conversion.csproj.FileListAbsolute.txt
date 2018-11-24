@@ -1,0 +1,6 @@
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Conversion\bin\Debug\Conversion.exe.config
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Conversion\bin\Debug\Conversion.exe
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Conversion\bin\Debug\Conversion.pdb
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Conversion\obj\Debug\Conversion.csprojResolveAssemblyReference.cache
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Conversion\obj\Debug\Conversion.exe
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Conversion\obj\Debug\Conversion.pdb

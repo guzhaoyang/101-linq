@@ -1,0 +1,8 @@
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\TakeWhile\bin\Debug\TakeWhile.exe.config
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\TakeWhile\bin\Debug\TakeWhile.exe
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\TakeWhile\bin\Debug\TakeWhile.pdb
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\TakeWhile\bin\Debug\ClassLibrary.dll
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\TakeWhile\bin\Debug\ClassLibrary.pdb
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\TakeWhile\obj\Debug\TakeWhile.csprojResolveAssemblyReference.cache
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\TakeWhile\obj\Debug\TakeWhile.exe
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\TakeWhile\obj\Debug\TakeWhile.pdb

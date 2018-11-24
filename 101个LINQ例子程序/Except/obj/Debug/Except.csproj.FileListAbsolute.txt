@@ -1,0 +1,5 @@
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Except\bin\Debug\Except.exe.config
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Except\bin\Debug\Except.exe
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Except\bin\Debug\Except.pdb
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Except\obj\Debug\Except.exe
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Except\obj\Debug\Except.pdb

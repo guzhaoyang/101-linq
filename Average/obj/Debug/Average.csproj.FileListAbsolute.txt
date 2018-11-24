@@ -1,0 +1,6 @@
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Average\bin\Debug\Average.exe.config
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Average\bin\Debug\Average.exe
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Average\bin\Debug\Average.pdb
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Average\obj\Debug\Average.csprojResolveAssemblyReference.cache
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Average\obj\Debug\Average.exe
+E:\.Net +MVC编程课件\101个LINQ例子程序\101个LINQ例子程序\Average\obj\Debug\Average.pdb
